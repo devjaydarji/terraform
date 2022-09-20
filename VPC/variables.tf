@@ -1,0 +1,1 @@
+variable "coalfire_project" {}
